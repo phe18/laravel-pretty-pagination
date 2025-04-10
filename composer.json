@@ -1,5 +1,5 @@
 {
-    "name": "nid/laravel-pretty-pagination",
+    "name": "phe18/laravel-pretty-pagination",
     "version": "1.0.0",
     "description": "A package for pretty pagination in Laravel",
     "type": "library",
